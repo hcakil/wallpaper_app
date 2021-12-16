@@ -37,15 +37,15 @@ dependencies:
   rounded_loading_button: ^2.0.9
   google_mobile_ads: ^0.13.5
   # facebook_audience_network: ^1.0.0-nullsafety.0
-  #ext_storage: ^1.0.3
+ # ext_storage: ^1.0.3
   ext_storage:
     git:
       url: git://github.com/lavahasif/ext_storage_ups.git
-  #onesignal_flutter: ^3.2.7
-  onesignal_flutter: #^3.2.3
-    git:
-      url: https://github.com/luis901101/OneSignal-Flutter-SDK.git
-      ref: migrate_android_embedding_v2
+  onesignal_flutter: ^3.2.7
+  #onesignal_flutter: #^3.2.3
+ #   git:
+  #    url: https://github.com/luis901101/OneSignal-Flutter-SDK.git
+   #   ref: migrate_android_embedding_v2
 
 
 
